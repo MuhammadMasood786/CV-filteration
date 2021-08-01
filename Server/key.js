@@ -1,0 +1,6 @@
+const KEYS = {
+    MONGODB_SECRET_KEY:"mongodb+srv://Masood:MMasood786@cluster0.6xtql.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    NODE_ENV : 'production'
+}
+
+module.exports =  KEYS
